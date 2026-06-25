@@ -5,13 +5,6 @@ most attractive market segments, seasonal trends, and regional differences
 across Saint Petersburg and the Leningrad Oblast — supporting a
 go-to-market and dashboard-driven business strategy.
 
-> **Note on data:** this project uses a training dataset provided by
-> **Yandex Practicum** (Data Analyst program), based on archival listing
-> data from the Yandex Real Estate service. The business scenario and
-> schema were provided by Yandex Practicum; all SQL queries, the dashboard
-> work, and the analytical conclusions below were built and written
-> independently.
-
 **Dashboard:** [Yandex DataLens](https://datalens.yandex.cloud/uexzz6cp08mih)
 *(Yandex login required — see screenshots below for a preview)*
 
